@@ -252,7 +252,7 @@ export default function Home() {
           Connecting Agricultural News, Knowledge and Opportunities.
         </p>
         <p className="mt-6 text-xs text-green-200">
-          © {new Date().getFullYear()} Naija Agric Insights. All rights reserved.
+          © 2026 Naija Agric Insights. All rights reserved.
         </p>
       </footer>
     </main>
